@@ -1,13 +1,14 @@
-# Mobile (and Desktop) Camera App Template (HTML, CSS, JS and WebRTC)
+# Mobile App Code  (HTML, CSS, JS and WebRTC) for integrating single snap photos into Mapillary - very beta
 
-I like to experiment with Computer Vision and AI API's (like Azure Cognetive Services, Google Cloud Vision, IBM Watson) to see if I can utilise them for some ideas. 
+Code adapted from the following github scripts and contributors
+Camera capture code :
+https://github.com/kasperkamperman/MobileCameraTemplate
+[Kasper Kamperman](https://www.kasperkamperman.com/blog/camera-template/)
+Exif Editing
+Hiroaki Matoba
+https://github.com/hMatoba/piexifjs
+https://blog.hmatoba.net/
 
-The most easy way to test those scripts and APIs them is by directly making a photo and sending image data to the API/script, instead of uploading files. I didn't find a fast mobile first camera template for HTML5 as a starting point for my prototypes, so I developed one myself. The interface setup is mainly inspired by the standard Android and iOS Cameras.
-
-The template doesn't do anything with the image(canvas) data yet, I'll leave that up to you. 
-If you need help with integrations or app development (PHP, Vue), feel free to contact me. 
-
-Feel free to use it in your next Computer Vision or AI project. 
 
 ### Requirements
 
@@ -24,34 +25,12 @@ Feel free to use it in your next Computer Vision or AI project.
 - Flip Camera (environment / user)
 - Supports both portrait and landscape mode
 
-**Check the [demo](https://demo.kasperkamperman.com/mobilecamtemplate/)**
 
-## Used Libraries:
 
-- Fullscreen functionality: [Screenfull.js](https://github.com/sindresorhus/screenfull.js/)
-- Detect WebRTC support: [DetectRTC.js](https://www.webrtc-experiment.com/DetectRTC/)
-- WebRTC cross-browser: [Adapter.js](https://github.com/webrtc/adapter)
-- UI click sound: [Howler.js](https://howlerjs.com)
+## Created/(Adapted from other people's code) by 
 
-## Used Assets:
-
-- ["Basic Click Wooden"](https://freesound.org/people/GameAudio/sounds/220200/) - by [GameAudio](https://www.gameaudio101.com)
-- [Material Design Icons](https://material.io/icons/) (camera front, camera rear, photo camera, fullscreen, fullscreen exit)
-
-## Tested with:
-
-- Chrome Android 8.0 (Nokia 5)
-- Chrome 65 - MacOs 10.12.6
-- Safari 11.0.3 - MacOs 10.12.6
-- Safari mobile - iOS 11, iOS 12, iOS 13
-
-## Created by 
-
-[Kasper Kamperman](https://www.kasperkamperman.com/blog/camera-template/)
-
-Credits and a link to my website are always appreciated. 
-I'm always curious how people end up using my stuff, so
-feel free to [mail](https://www.kasperkamperman.com/contact/) or [send a tweet @kasperkamperman](https://twitter.com/kasperkamperman). 
+Stuart Rapoport
+https:europeanwaterproject.org
 
 ## Good WebRTC resources
 
