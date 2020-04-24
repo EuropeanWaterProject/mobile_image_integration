@@ -1,0 +1,5 @@
+https://a.mapillary.com/v2/ua/login?client_id=d3NCTDNFVU5XcXpFQ0Nxazl0QzhVUTo0NjU1ZGUyYmU4MTg2NmM3
+
+https://a.mapillary.com/v3/me?client_id=d3NCTDNFVU5XcXpFQ0Nxazl0QzhVUTo0NjU1ZGUyYmU4MTg2NmM3
+
+https://a.mapillary.com/v3/me?client_id=d3NCTDNFVU5XcXpFQ0Nxazl0QzhVUTplOTY5YzBkNzdiNjIzYTc3
